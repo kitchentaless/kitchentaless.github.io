@@ -4507,6 +4507,10 @@ triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 yeahmobi.com, 5135195, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4467, RESELLER
 
 #liftloff
 vungle.com, 5976200a67c878dd71001269,DIRECT,c107d686becd2d77
@@ -5604,6 +5608,10 @@ admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
 e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
 richaudience.com, 9komJKwMhZ, RESELLER
 toponad.com, 16385e313a271a, RESELLER, 1d49fe424a1a456d
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
+lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
+showheroes.com, 6031, RESELLER
+smartclip.net, 27985, RESELLER
 
 #pungle
 pangleglobal.com, 5006549, DIRECT
